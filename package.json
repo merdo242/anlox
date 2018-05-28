@@ -1,0 +1,13 @@
+{
+  "name": "anlox",
+  "description": "anlox",
+  "version": "0.0.0",
+  "main": "bots.js",
+  "scripts": {
+    "start": "node bots.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
